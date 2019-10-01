@@ -1,0 +1,18 @@
+{
+    "posts": [
+      {
+        "name": "Phan Văn Đệ",
+        "gender": "1",
+        "email": "dephan.dev@gmail.com",
+        "address": "Tây Ninh",
+        "id": 1
+      },
+      {
+        "name": "Huynh vinh",
+        "gender": "1",
+        "email": "lucdeit1997@gmail.com",
+        "address": "Tây Ninh",
+        "id": 2
+      }
+    ]
+  }
